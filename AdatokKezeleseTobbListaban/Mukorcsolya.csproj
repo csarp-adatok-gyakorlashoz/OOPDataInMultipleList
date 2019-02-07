@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="adattar\TestAdatok.cs" />
+    <Compile Include="adattar\Versenyzok.cs" />
     <Compile Include="modell\MukorcsolyaVersenyzo.cs" />
     <Compile Include="modell\Versenyzo.cs" />
     <Compile Include="Program.cs" />
@@ -52,8 +54,6 @@
     <None Include="szovegfajlok\donto.csv" />
     <None Include="szovegfajlok\rovidprogram.csv" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="adattar\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
