@@ -1,0 +1,7 @@
+D:\github.csarp\OOPDataInMultipleList\AdatokKezeleseTobbListaban\obj\Debug\Mukorcsolya.csprojResolveAssemblyReference.cache
+D:\github.csarp\OOPDataInMultipleList\AdatokKezeleseTobbListaban\obj\Debug\Mukorcsolya.csproj.CoreCompileInputs.cache
+D:\github.csarp\OOPDataInMultipleList\AdatokKezeleseTobbListaban\bin\Debug\AdatokKezeleseTobbListaban.exe.config
+D:\github.csarp\OOPDataInMultipleList\AdatokKezeleseTobbListaban\bin\Debug\AdatokKezeleseTobbListaban.exe
+D:\github.csarp\OOPDataInMultipleList\AdatokKezeleseTobbListaban\bin\Debug\AdatokKezeleseTobbListaban.pdb
+D:\github.csarp\OOPDataInMultipleList\AdatokKezeleseTobbListaban\obj\Debug\AdatokKezeleseTobbListaban.exe
+D:\github.csarp\OOPDataInMultipleList\AdatokKezeleseTobbListaban\obj\Debug\AdatokKezeleseTobbListaban.pdb
